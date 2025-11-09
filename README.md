@@ -5,7 +5,7 @@ I force massive matrices into RAM and pray the convergence gods 🙏
 
 ### What I Do 🏗️
 - Turn messy **CT scans** into **BEAUTIFUL** simulation-ready geometries  
-- Write **Python / C++ / MATLAB / Go** to invoke converge on the first try (TLDR: they don’t)  
+- Write **Python / C++ / MATLAB / Go** to invoke converge on the first try (TLDR: it never does)  
 - Build tools to analyze and simulate complex materials and 3D prints  
 - Explain FEM and mechanics to students without breaking their will to live (usually)
 
